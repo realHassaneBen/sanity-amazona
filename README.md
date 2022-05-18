@@ -17,3 +17,7 @@
 4. Publish to github
     1. Create github account
     2. push to github from vs code
+5. Create Website layout
+    1. Add header
+    2. Add main
+    3. Add footer
