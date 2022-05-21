@@ -1,6 +1,6 @@
 import { Typography } from '@mui/material';
 import Head from 'next/head';
-import Layout from '../compoenents/Layout';
+import Layout from '../components/Layout';
 
 export default function Home() {
     return (

@@ -1,26 +1,36 @@
 {
-  "name": "sanity-amazona",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "@emotion/react": "^11.9.0",
-    "@emotion/server": "^11.4.0",
-    "@emotion/styled": "^11.8.1",
-    "@mui/icons-material": "^5.8.0",
-    "@mui/material": "^5.8.0",
-    "@mui/styles": "^5.8.0",
-    "next": "12.1.6",
-    "react": "18.1.0",
-    "react-dom": "18.1.0"
-  },
-  "devDependencies": {
-    "eslint": "8.15.0",
-    "eslint-config-next": "12.1.6"
-  }
+    "name": "sanity-amazona",
+    "version": "0.1.0",
+    "private": true,
+    "description": "Frontend for Sanity Amazone",
+    "author": "Hassane Bendaoud <40140987+realHassaneBen@users.noreply.github.com>",
+    "license": "MIT",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "keywords": [
+        "sanity",
+        "react",
+        "next",
+        "mui"
+    ],
+    "dependencies": {
+        "@emotion/react": "^11.9.0",
+        "@emotion/styled": "^11.8.1",
+        "@mui/material": "^5.8.0",
+        "next": "12.1.6",
+        "react": "18.1.0",
+        "react-dom": "18.1.0"
+    },
+    "devDependencies": {
+        "eslint": "8.15.0",
+        "eslint-config-next": "12.1.6"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/realHassaneBen/sanity-amazona.git"
+    }
 }
