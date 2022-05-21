@@ -15,11 +15,7 @@ import classes from '../utils/classes';
 
 export default function Layout({ title, description, children }) {
     const theme = createTheme({
-        components: {
-            MuiLink: {
-                defaultProps: 'hover',
-            },
-        },
+        components: {},
         typography: {
             h1: {
                 fontSize: '1.6rem',
